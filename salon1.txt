@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>Serenity Salon</title>
+</head>
+<body align="center" background="pinkwall.jpg" align="center">
+<br>
+<br>
+<center><img  src="title.jpeg" width='600' height='300' ></center>
+<h1 align="center" fontcolor="white"><font size="7">WELCOME TO NICE CARE BEAUTY PARLOUR</font></h1>
+<hr color="pink">
+<p align="center"> <font size="6">AN makeup artist</font><p>
+<p><font size="5">A combination of qualities, such as shape, colour, or form, that pleases the aesthetic senses is the defination of beauty as per leading websites, in simple words beauty is what helps you feel confident and we at SERENITY helps you achieve that confidence. </font></p>
+<h2 align="center"><font size="6">OUR SERVICES</font></h2>
+<font size="5">
+<center><a href=haircare.html target=_blank>HAIR SERVICES</a>
+<br>
+<a href=skincare.html target=_blank>SKIN CARE</a>
+<br>
+<a href=waxing.html target=_blank>WAXING</a>
+<br>
+<a href=nails.html target=_blank>NAILS</a>
+<br>
+<a href=threading.html target=_blank>THREADING</a>
+<br>
+<a href=makeup.html target=_blank>MAKEUP AND BRIDAL PACKAGES</a>
+<br>
+<a href=appointment.html target=_blank>GET APPOINTMENT</a>
+<br>
+</center>
+</font>
+<table align="center">
+<tr>
+<td><img src="makeup1.jpg" width='300' height='300'>
+<td bgcolor="#F9E79F" align="center"><font size="5">FASHION MAKEUP</font>
+</tr>
+<tr>
+<td bgcolor="#FADBD8" align="center" ><font size="5">WEDDING MAKEUP</font>
+<td><img src="wedding.jpg" width='300' height='300'>
+</tr>
+<tr>
+<td><img src="makeup4.jpg" width='300' height='300'>
+<td bgcolor="#F9E79F  " align="center"><font size="5">PARTIES MAKEUP</font>
+</tr>
+</table>
+<br>
+<br>
+<marquee>
+<img src="1.jpg" width='300' height='300'>
+<img src="2.jpg" width='300' height='300'>
+<img src="3.jpg" width='300' height='300'>
+<img src="4.jpg" width='300' height='300'>
+<img src="5.jpg" width='300' height='300'>
+<img src="6.jpg" width='300' height='300'>
+<img src="13.jpg" width='300' height='300'>
+<img src="14.jpg" width='300' height='300'>
+</marquee>
+</body>
+</html>
